@@ -10,6 +10,6 @@ Clique_game is a clique searching game. It is designed to demonstrate NP-complet
 - Need to have a way to convert the visual graph into a graph data structure.
 
 ## Gif Walkthrough
-![walkthrough](alpha_graph_generator)
+![walkthrough](alpha_graph_generator.gif)
 
 
